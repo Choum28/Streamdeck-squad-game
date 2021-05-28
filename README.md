@@ -10,6 +10,7 @@ Shorcuts in this profile
 * Talk to all SL and CDR
 * Talk to each specific squad leader (1 to 9)
 * Start engine
+* Map
 * Toggle chopper landing camera
 * Toggle turret stabilization
 * Toggle turret zoom.
